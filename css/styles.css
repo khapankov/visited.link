@@ -4,7 +4,7 @@ body {
 }
 
 .logo {
-	padding: 24px;
+	margin: 24px;
 }
 .logo span{
 	font-family: arial, sans-serif;
@@ -17,6 +17,7 @@ body {
 	margin-top: 64px;
 	margin-left: 24px;
 	list-style: none;
+	padding: 0;
 }
 .links a {
 	text-decoration: none;
