@@ -3,70 +3,24 @@ body {
 	padding: 0;
 }
 
-.bookmarks {
-	background-color: #f2f2f2;
-	height: 32px;
-	border-bottom: 1px solid #e6e6e6;
-	text-align: center;
-	cursor: default;
+.logo {
+	padding: 24px;
+}
+.logo span{
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	font-size: 36px;
+	color: #660099;
 }
 
-.vertical-align {
-	margin: auto;
-	height: 32px;
-	width: 400px;
-
+.links {
+	margin-top: 64px;
+	margin-left: 24px;
+	list-style: none;
 }
-
-.bookmark {
-	display: inline-block;
-	width: 24px;
-	height: 16px;
-	border-radius: 2px;
-	padding: 2px 0;
-	transition: background-color 0.2s;
-	position: relative;
-	top: 50%;
-	transform: translateY(-50%);
-	cursor: default;
-}
-
-.bookmark:hover {
-	background-color: #e2e2e2;
-}
-
-.icon {
-	display: inline-block;
-	width: 16px;
-	height: 16px;
-	background-size: 100%;
-	background-image: url(../images/vk.ico);
-}
-
-.vk {
-	background-image: url(../images/vk.ico);
-}
-
-.fb {
-	background-image: url(../images/facebook.ico);
-}
-
-.gmail {
-	background-image: url(../images/gmail.ico);
-}
-
-.trello {
-	background-image: url(../images/trello.png);
-}
-
-.drive {
-	background-image: url(../images/drive.ico);
-}
-
-.toggl {
-	background-image: url(../images/toggl.ico);
-}
-
-.sheet {
-	background-image: url(../images/sheets.png);
+.links a {
+	text-decoration: none;
+	font-family: arial, sans-serif;
+	font-size: 16px;
+	color: #1a0dab;
 }
