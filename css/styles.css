@@ -40,33 +40,33 @@ body {
 	width: 16px;
 	height: 16px;
 	background-size: 100%;
-	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/vk.ico);
+	background-image: url(../images/vk.ico);
 }
 
 .vk {
-	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/vk.ico);
+	background-image: url(../images/vk.ico);
 }
 
 .fb {
-	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/facebook.ico);
+	background-image: url(../images/facebook.ico);
 }
 
 .gmail {
-	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/gmail.ico);
+	background-image: url(../images/gmail.ico);
 }
 
 .trello {
-	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/trello.png);
+	background-image: url(../images/trello.png);
 }
 
 .drive {
-	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/drive.ico);
+	background-image: url(../images/drive.ico);
 }
 
 .toggl {
-	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/toggl.ico);
+	background-image: url(../images/toggl.ico);
 }
 
 .sheet {
-	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/sheets.png);
+	background-image: url(../sheets.png);
 }
