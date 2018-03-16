@@ -23,7 +23,7 @@ body {
 .links li {
 	margin-bottom: 16px;
 }
-.links:last-child {
+.links li:last-child {
 	margin: 0;
 }
 .links a {
