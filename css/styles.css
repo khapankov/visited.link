@@ -1,0 +1,72 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.bookmarks {
+	background-color: #f2f2f2;
+	height: 32px;
+	border-bottom: 1px solid #e6e6e6;
+	text-align: center;
+	cursor: default;
+}
+
+.vertical-align {
+	margin: auto;
+	height: 32px;
+	width: 400px;
+
+}
+
+.bookmark {
+	display: inline-block;
+	width: 24px;
+	height: 16px;
+	border-radius: 2px;
+	padding: 2px 0;
+	transition: background-color 0.2s;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	cursor: default;
+}
+
+.bookmark:hover {
+	background-color: #e2e2e2;
+}
+
+.icon {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-size: 100%;
+	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/vk.ico);
+}
+
+.vk {
+	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/vk.ico);
+}
+
+.fb {
+	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/facebook.ico);
+}
+
+.gmail {
+	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/gmail.ico);
+}
+
+.trello {
+	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/trello.png);
+}
+
+.drive {
+	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/drive.ico);
+}
+
+.toggl {
+	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/toggl.ico);
+}
+
+.sheet {
+	background-image: url(/Users/khapankov/Documents/Personal/startpage/images/sheets.png);
+}
