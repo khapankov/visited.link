@@ -43,7 +43,7 @@ body {
 	box-shadow: 0px 5px 20px rgba(16, 16, 16, 0.17);
 	border-radius: 8px;
 }
-.button:active {
+.button:focus {
 	background: #FAFAFA;
 	box-shadow: inset 0px 2px 8px rgba(0, 0, 0, 0.25);
 }
