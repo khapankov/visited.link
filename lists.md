@@ -168,14 +168,14 @@ List:
 Применение шаблонов на портале
 =================
 
-- **Рейтинг**: small - avatar
-- **Друзья**: regular - avatar
+- **Рейтинг**: small - object
+- **Друзья**: regular - object
 - **Список чатов**: regular - card
-- **Участники чата**: regular - avatar and action
+- **Участники чата**: regular - object and action
 - **Выбор собеседника (личный чат)**: regular - card
 - **Выбор собеседника (групповой чат)**: regular - card as action
 - **Обсуждения**: regular - card
-- **Соседи**: regular - avatar and action
+- **Соседи**: regular - object and action
 - **Поддержка**: regular - card
 - **Уведомления**: regular - card
 
