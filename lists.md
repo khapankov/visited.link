@@ -171,11 +171,11 @@ List:
 - **Рейтинг**: small - object
 - **Друзья**: regular - object
 - **Список чатов**: regular - card
-- **Участники чата**: regular - object and action
+- **Участники чата**: regular - object with action
 - **Выбор собеседника (личный чат)**: regular - card
 - **Выбор собеседника (групповой чат)**: regular - card as action
 - **Обсуждения**: regular - card
-- **Соседи**: regular - object and action
+- **Соседи**: regular - object with action
 - **Поддержка**: regular - card
 - **Уведомления**: regular - card
 
