@@ -20,6 +20,8 @@
 
 Font-size названия объекта – 16px. Font-weight – bold.
 
+Размер изображения объекта для small: S (45x45 px), для regular: M (70x70 px)
+
 ----------------
 List:
 
