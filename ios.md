@@ -9,9 +9,9 @@
 
 - Button: Settings
 
-- [ ] Image: Avatar
+- Image: Avatar
 
-- ~~Label: Nickname~~
+- Label: Nickname
 
 - Background: Image
 
