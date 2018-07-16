@@ -11,7 +11,7 @@
 
 - [ ] Image: Avatar
 
-- [x] Label: Nickname
+- ~~Label: Nickname~~
 
 - Background: Image
 
